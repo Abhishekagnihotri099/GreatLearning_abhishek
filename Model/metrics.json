@@ -1,4 +1,4 @@
 {
-    "auc": 0.6532303861715627,
-    "clf_report": "              precision    recall  f1-score   support\n\n           0       0.43      0.60      0.50        15\n           1       0.44      0.62      0.52        13\n           2       0.67      0.24      0.35        17\n\n    accuracy                           0.47        45\n   macro avg       0.51      0.48      0.45        45\nweighted avg       0.52      0.47      0.45        45\n"
+    "auc": 0.6009423462871738,
+    "clf_report": "              precision    recall  f1-score   support\n\n           0       0.45      0.56      0.50        16\n           1       0.35      0.57      0.43        14\n           2       0.00      0.00      0.00        15\n\n    accuracy                           0.38        45\n   macro avg       0.27      0.38      0.31        45\nweighted avg       0.27      0.38      0.31        45\n"
 }
